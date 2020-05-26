@@ -1,4 +1,4 @@
-# python_game
+# Python Text-Based Game
 
 ## About the project
 
